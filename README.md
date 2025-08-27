@@ -19,9 +19,13 @@ Here is an example usage to sweep an IC surface from (10.0, 10.0) to (12.5, 12.5
 
 ## Installing ChipShover Python
 
-Install `chipshover` like any other Python package. It should be available on [pypi.org](https://pypi.org/project/chipshover/) so you can do:
+Install `chipshover` like any other Python package by cloning and installing via pip:
 
-	pip install chipshover
+```python
+git clone https://github.com/newaetech/ChipShover-Python
+cd ChipShover-Python
+pip install .
+```
 
 ## Full Python Documentation
 
